@@ -1,0 +1,13 @@
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\SmartMines.exe.config
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.csprojResolveAssemblyReference.cache
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.MainForm.resources
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.Properties.Resources.resources
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.csproj.GenerateResource.Cache
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\SmartMines.exe
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\SmartMines.pdb
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\MQTTnet.dll
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\MQTTnet.xml
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.exe
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\obj\Debug\SmartMines.pdb
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MRA.MRA-HP\Documents\Visual Studio 2015\Projects\SmartMines\SmartMines\bin\Debug\Newtonsoft.Json.xml
